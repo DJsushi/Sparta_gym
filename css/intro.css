@@ -1,0 +1,22 @@
+.intro-container {
+    display: flex;
+    height: 50rem;
+    color: snow;
+    background: url("../img/bigImage.jpg") no-repeat center;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-shadow: 3px 3px 6px black;
+    font-weight: bold;
+    padding: min(35px, 5vw);
+}
+
+.intro {
+    font-size: 5em;
+}
+
+.intro2 {
+    user-select: text;
+    font-size: 3em;
+}
