@@ -1,37 +1,30 @@
-
-.openinginfo
-{
+.openinginfo {
     background-color: #1F4161;
     color: snow;
-    
+
 }
 
-.openinfo
-{
+.openinfo {
     text-align: center;
     padding-top: 1em;
 }
 
-.open
-{
+.open {
     text-align: center;
     display: flex;
     justify-content: center;
     flex-direction: row;
 }
 
-.textWithopen
-{   
+.textWithopen {
     text-align: center;
     padding-top: 2em;
     padding-bottom: 2em;
 }
 
 
-
-.after_middle
-{
-    background-image: url("pedro-araujo-PDjYClxmnyk-unsplash.jpg");
+.after_middle {
+    background-image: url("../img/pedro-araujo-PDjYClxmnyk-unsplash.jpg");
     color: black;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,8 +32,7 @@
     height: 100%;
 }
 
-.hameenlinna
-{
+.hameenlinna {
     background-color: rgba(196, 196, 196, 0.7);
     margin: 70px 30px 40px 30px;
     display: flex;
@@ -48,16 +40,14 @@
     justify-content: center;
 }
 
-.hmltext
-{
+.hmltext {
     margin-left: 2em;
     margin-right: 1em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
 
-.img_hml
-{
+.img_hml {
     object-fit: cover;
     width: 20vw;
     max-width: 200px;
@@ -75,16 +65,14 @@
     justify-content: center;
 }
 
-.tretext
-{
+.tretext {
     margin-left: 2em;
     margin-right: 1em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
 
-.img_tre
-{
+.img_tre {
     object-fit: cover;
     width: 20vw;
     max-width: 200px;
@@ -94,8 +82,7 @@
     padding-bottom: 2em;
 }
 
-.hamk
-{
+.hamk {
     background-color: rgba(196, 196, 196, 0.7);
     margin: 70px 30px 40px 30px;
     display: flex;
@@ -105,16 +92,14 @@
 
 }
 
-.hamktext
-{
+.hamktext {
     padding-top: 1em;
     margin-left: 1em;
     margin-right: 2em;
     padding-bottom: 1em;
 }
 
-.openimg
-{
+.openimg {
     object-fit: cover;
     width: 29vw;
     max-width: 200px;
@@ -123,8 +108,7 @@
     padding-bottom: 2em;
 }
 
-.img_hamk
-{
+.img_hamk {
     object-fit: cover;
     width: 20vw;
     max-width: 200px;
